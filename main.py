@@ -1,10 +1,7 @@
 # -*- coding: utf-8 -*-
 # @Date    : '2018/8/10 0010'
 # @Author  : Terry feng  (fengshaomin@qq.com)
-# !/usr/bin/env python
-# coding:utf8
 import sys
-
 import itchat
 from itchat.content import *
 
